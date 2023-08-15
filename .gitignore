@@ -1,0 +1,10 @@
+# Ignorando o dir /config(contem .env)
+config/
+
+# Ignorando node_modules
+
+node_modules/
+
+#Ignorando package-lock.json
+
+package-lock.json
