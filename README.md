@@ -22,7 +22,7 @@ O projeto possui as seguintes funcionalidades:
 
 1. Clone este repositório.
 2. Execute `npm install` para instalar as dependências.
-3. Renomeie o arquivo `.env.example` para `.env` e defina as variáveis de ambiente necessárias, como a URL do banco de dados e a chave secreta JWT.
+3. Configure o arquivo `.env` e defina as variáveis de ambiente necessárias, como a URL do banco de dados e a chave secreta JWT.
 4. Execute `npm start` para iniciar o servidor.
 
 ## Endpoints
